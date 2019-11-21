@@ -1,11 +1,11 @@
-# PrecipitationVectorbornDeseasesIndianSubContinent2019
+# PrecipitationVectorborneDiseasesIndianSubContinent2019
 
-##Group 9
-##Team members: Ridhi, Jagrati, Hariharan
+## Group 9
+## Team members: Ridhi, Jagrati, Hariharan
 
-#26th October:
+# 26th October:
 
-#Important links:
+# Important links:
 
 The Global Precipitation Measurement mission is an international network of satellites that provide the next-generation global observations of rain and snow
 The precipitation data can be found using the following links :
