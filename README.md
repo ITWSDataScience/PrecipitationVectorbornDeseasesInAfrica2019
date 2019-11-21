@@ -1,4 +1,4 @@
-# PrecipitationVectorborneDiseasesIndianSubContinent2019
+# PrecipitationVectorborneDiseasesFor2019
 
 ## Group 9
 ## Team members: Ridhi, Jagrati, Hariharan
