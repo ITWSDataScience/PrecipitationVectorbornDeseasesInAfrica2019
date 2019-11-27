@@ -1,0 +1,61 @@
+HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
+Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
+6797840,ProMED Português,2019-11-25 22:06:19,"PRO/PORT> Dengue - Sudão, OMS/WHO","Dengue",13.831530,30.049950,"Sudan",,,3
+6796287,Google News,2019-11-23 00:03:45,"Sudan: OCHA Sudan Sitrep - Rift Valley Fever Outbreak in Sudan - ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6795414,Google News,2019-11-22 16:02:35,"Sudan: Dengue Fever Outbreak - Aug 2019 - ReliefWeb","Dengue",13.831530,30.049950,"Sudan",,,1
+6794635,Google News,2019-11-22 04:30:00,"6 Facts about the Yellow Fever Outbreak in Nigeria - Borgen Project","Yellow Fever",9.593960,8.105310,"Nigeria",,,3
+6793221,ProMED Français,2019-11-23 15:05:50,"PRO/FR> Dengue - Sénégal: (Centre-Ouest)","Dengue",14.366970,-14.467650,"Senegal",,,3
+6793625,Google News,2019-11-21 12:06:37,"Cameroon:National Malaria Control Program finally reacts to alleged - ...","Malaria",5.685950,12.743590,"Cameroon",,,4
+6793021,World Health Organization,2019-11-21 19:00:00,"Dengue fever &ndash; Republic of the Sudan","Dengue",13.831530,30.049950,"Sudan",,,3
+6787770,ProMED Mail,2019-11-20 11:55:02,"PRO/AH/EDR> Rift Valley fever - Sudan (07): (RS,RN) human, livestock, ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6780122,ProMED Middle East,2019-11-19 19:43:15,"PRO/MENA> Malaria - Libya (03): (Wadi ash Shati) increasing ...","Malaria",27.799999,12.733330,"Wādī ash Shāţi’, Ash Shāţiʼ, Libya",,,3
+6786885,Google News,2019-11-19 11:53:03,"87 cases of dengue fever recorded in Sudan - Radio Dabanga","Dengue",13.831530,30.049950,"Sudan",,,4
+6786593,موقع منظمة الصحة العالمي (WHO AR),2019-11-13 19:00:00,"Rift Valley Fever - Sudan","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6786292,Organisation mondiale de la Santé,2019-11-13 19:00:00,"Rift Valley Fever - Republic of Sudan","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6785763,Google News,2019-11-18 20:33:53,"Yellow fever in Nigeria: 150 deaths in 2019 - Outbreak News Today","Yellow Fever",9.593960,8.105310,"Nigeria",,,4
+6783567,ProMED Mail,2019-11-18 13:14:41,"PRO/EDR> Dengue/DHF update (21): Asia, Pacific, Africa, Europe, ...","Dengue",10.166580,40.646889,"Gewanē, Āfar, Ethiopia",,,3
+6783567,ProMED Mail,2019-11-18 13:14:41,"PRO/EDR> Dengue/DHF update (21): Asia, Pacific, Africa, Europe, ...","Dengue",13.831530,30.049950,"Sudan",,,3
+6783567,ProMED Mail,2019-11-18 13:14:41,"PRO/EDR> Dengue/DHF update (21): Asia, Pacific, Africa, Europe, ...","Dengue",-12.295290,17.544680,"Angola",,,3
+6783689,Google News,2019-11-13 19:03:18,"Don: Nigeria needs N420bn to eradicate malaria by 2030 - New ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6781439,Google News Português,2019-11-16 03:14:28,"Angola records over 700 malaria cases per hour - e-Global Noticias in ...","Malaria",-12.295290,17.544680,"Angola",,,3
+6780269,Google News Português,2019-11-15 09:54:25,"550 cases of dengue reported this year | Society - Journal of Angola","Dengue",-12.295290,17.544680,"Angola",,,3
+6778363,Google News,2019-11-14 06:56:35,"Rift Valley Fever – Republic of the Sudan - Sudan - ReliefWeb","Rift Valley Fever",13.831530,30.049950,"Sudan",,,4
+6778109,Google News,2019-11-14 06:16:00,"British doctor halts fatal malaria in 72 villages - Evening Standard","Malaria",-13.215800,34.307232,"Malawi",,,4
+6778012,World Health Organization,2019-11-13 19:00:00,"Rift Valley Fever &ndash; Republic of the Sudan","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6778012,World Health Organization,2019-11-13 19:00:00,"Rift Valley Fever &ndash; Republic of the Sudan","Malaria",13.831530,30.049950,"Sudan",,,3
+6775634,ProMED Mail,2019-11-13 11:32:10,"PRO/AH/EDR> Rift Valley fever - Eastern Africa (05): Kenya (LK) ...","Rift Valley Fever",0.529860,37.857880,"Kenya",,,3
+6775634,ProMED Mail,2019-11-13 11:32:10,"PRO/AH/EDR> Rift Valley fever - Eastern Africa (05): Kenya (LK) ...","Rift Valley Fever",0.529860,37.857880,"Kenya",,,3
+6776340,Google News,2019-11-13 10:24:00,"Zambia : Itezhi-Tezhi records reduction in Malaria cases - Lusaka ...","Malaria",-13.953020,27.798250,"Zambia",,,3
+6776169,Google News,2019-11-13 08:10:43,"Malaria and malnutrition stalk central Somalia as more families flee ...","Malaria",6.063720,47.862591,"Somalia",,,3
+6776089,Google News,2019-11-13 06:46:33,"17 die of dengue fever in Kassala - Radio Dabanga","Dengue",15.450990,36.399979,"Kassala, Kassala State, Sudan",,17,4
+6775112,ProMED Mail,2019-11-12 18:14:39,"PRO/AH/EDR> Rift Valley fever - Eastern Africa (04): Kenya (LK) alert","Rift Valley Fever",0.416670,36.750000,"Laikipia District, Rift Valley, Kenya",,,3
+6772953,ProMED Middle East,2019-11-11 18:39:38,"PRO/MENA> Rift valley fever - Sudan (05): fatal, increasing ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6770715,ProMED Français,2019-11-10 16:59:25,"PRO/FR> Fièvre Jaune - Nigeria (03): (Nord)","Yellow Fever",9.593960,8.105310,"Nigeria",,,3
+6761257,ProMED Middle East,2019-11-10 05:20:52,"PRO/MENA> Rift Valley fever - Sudan (03): (River Nile) sheep, goat, ...","Rift Valley Fever",19.000000,33.200001,"River Nile, Sudan",,,3
+6761257,ProMED Middle East,2019-11-10 05:20:52,"PRO/MENA> Rift Valley fever - Sudan (03): (River Nile) sheep, goat, ...","Rift Valley Fever",19.000000,33.200001,"River Nile, Sudan",,,3
+6759649,ProMED Middle East,2019-11-10 05:18:19,"PRO/MENA> Rift Valley fever - Sudan (04): (River Nile) fatal, ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6770678,ProMED Mail,2019-11-10 00:07:26,"PRO/AH/EDR> Yellow fever - Africa (24): Nigeria (KT, BA, BE)","Yellow Fever",12.250000,7.500000,"Katsina State, Nigeria",,,3
+6770678,ProMED Mail,2019-11-10 00:07:26,"PRO/AH/EDR> Yellow fever - Africa (24): Nigeria (KT, BA, BE)","Yellow Fever",10.500000,10.000000,"Bauchi State, Nigeria",,,3
+6770678,ProMED Mail,2019-11-10 00:07:26,"PRO/AH/EDR> Yellow fever - Africa (24): Nigeria (KT, BA, BE)","Yellow Fever",7.333333,8.750000,"Benue State, Nigeria",,,3
+6769624,ProMED Mail,2019-11-08 20:24:55,"PRO/AH/EDR> Yellow fever - Africa (23): Nigeria (BA)","Yellow Fever",10.500000,10.000000,"Bauchi State, Nigeria",,,3
+6769218,Google News,2019-11-08 13:22:47,"Federal Government Agencies Support Response To Increase In Yellow ...","Yellow Fever",10.500000,10.000000,"Bauchi State, Nigeria",,,3
+6769218,Google News,2019-11-08 13:22:47,"Federal Government Agencies Support Response To Increase In Yellow ...","Yellow Fever",7.333333,8.750000,"Benue State, Nigeria",,,3
+6769122,Google News,2019-11-08 12:05:54,"Malaria epidemic in Burundi is deadlier than EBOLA outbreak in DRC - ...","Malaria",-3.356170,29.887150,"Burundi",,,3
+6769122,Google News,2019-11-08 12:05:54,"Malaria epidemic in Burundi is deadlier than EBOLA outbreak in DRC - ...","Malaria",-2.000000,25.000000,"DR Congo",,,3
+6768177,ProMED Mail,2019-11-08 10:58:00,"PRO/AH/EDR> Zika virus (07): Americas, Asia, Africa, Europe, ...","Zika virus",-12.295290,17.544680,"Angola",,,1
+6767147,ProMED Anglophone Africa,2019-11-08 08:26:57,"PRO/EAFR> Malaria - Burundi (02): increased cases, fatal","Malaria",-3.356170,29.887150,"Burundi",,,3
+6767771,ProMED Mail,2019-11-07 22:34:55,"PRO/AH/EDR> Rift Valley fever - Sudan (06): Egypt, alertness, ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6767771,ProMED Mail,2019-11-07 22:34:55,"PRO/AH/EDR> Rift Valley fever - Sudan (06): Egypt, alertness, ...","Rift Valley Fever",26.494249,29.871960,"Egypt",,,3
+6767771,ProMED Mail,2019-11-07 22:34:55,"PRO/AH/EDR> Rift Valley fever - Sudan (06): Egypt, alertness, ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6767771,ProMED Mail,2019-11-07 22:34:55,"PRO/AH/EDR> Rift Valley fever - Sudan (06): Egypt, alertness, ...","Rift Valley Fever",26.494249,29.871960,"Egypt",,,3
+6765712,ProMED Mail,2019-11-07 00:28:28,"PRO/AH/EDR> Rift Valley fever - Sudan (05): (RN) livestock, human, OIE","Rift Valley Fever",19.000000,33.200001,"River Nile, Sudan",,,3
+6761701,ProMED Français,2019-11-05 15:51:54,"PRO/FR> Dengue, riposte immédiate - Mali (02): (Bamako)","Dengue",17.350281,-3.524420,"Mali",,,3
+6761700,ProMED Français,2019-11-05 15:46:06,"PRO/FR> Dengue, épidémie déclarée dans la capitale - Mali: (Bamako)","Dengue",17.350281,-3.524420,"Mali",,,3
+6762057,ProMED Mail,2019-11-05 01:20:09,"PRO/AH/EDR> Yellow fever - Africa (22): Nigeria (BA) susp.","Yellow Fever",10.500000,10.000000,"Bauchi State, Nigeria",,,3
+6761123,Food and Agriculture Org,2019-11-03 00:00:00,"Confirmed Rift Valley fever in Nile, Sudan - goat, sheep","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3
+6760762,Google News,2019-11-04 04:00:59,"MSF tackles severe malaria outbreak in western Sudan | MSF - Médecins ...","Malaria",13.831530,30.049950,"Sudan",,,4
+6760182,Google News,2019-11-03 11:23:16,"Another suspected Yellow Fever outbreak kills 6 in Bauchi - Daily ...","Yellow Fever",10.500000,10.000000,"Bauchi State, Nigeria",,,3
+6758945,ProMED Español,2019-11-02 11:02:07,"PRO/ESP> Malaria - Burundi: aumento explosivo de casos, menor ...","Malaria",-3.356170,29.887150,"Burundi",,,3
+6758851,Google News,2019-11-02 07:41:42,"Rains to trigger malaria upsurge, health official warns - Daily ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6757207,ProMED Mail,2019-11-01 07:09:35,"PRO/EDR> Malaria - Kenya: (NK)","Malaria",-0.054950,36.127468,"Solai, Nakuru, Kenya",,,3
+6757159,ProMED Middle East,2019-11-01 06:33:42,"PRO/MENA> Malaria - Sudan (03): (North Darfur) children, fatal / ...","Malaria",16.000000,25.500000,"North Darfur, Sudan",,,3

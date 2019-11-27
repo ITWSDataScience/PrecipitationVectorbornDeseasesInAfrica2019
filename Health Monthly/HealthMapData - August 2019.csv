@@ -1,0 +1,90 @@
+HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
+Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
+6650325,Google News Русский,2019-08-23 04:11:43,"65 0 In southern Russia, dangerous mosquitoes from Egypt and Asia ...","Zika virus",26.494249,29.871960,"Egypt",,,1
+6649307,Google News,2019-08-30 01:24:30,"Billions secured to fight AIDS, malaria, TB - Caj News Africa","Malaria",8.626220,39.616032,"Ethiopia",,,3
+6649225,Google News,2019-08-30 03:12:24,"Health officials meet to validate disease surveillance and response ...","Zika virus",-6.354350,52.229939,"Seychelles",,,3
+6649174,Google News,2019-08-30 05:37:59,"De Beers Group supports technology for early detection of malaria - ...","Malaria",-28.998529,25.092541,"South Africa",,,4
+6646412,Google News,2019-08-28 03:30:00,"Folha de S. Paulo travels eight countries for series on global ...","Zika virus",-28.998529,25.092541,"South Africa",,,3
+6645742,Google News,2019-08-28 11:02:11,"Malaria Vaccine Plan Postponed in Kenya, but Optimism Remains: Public ...","Malaria",0.529860,37.857880,"Kenya",,,1
+6645616,Google News,2019-08-28 10:41:00,"Burundi MPs hold session on Malaria, Ebola, Cholera prevention - ...","Malaria",-3.356170,29.887150,"Burundi",,,3
+6645077,Google News,2019-08-28 03:00:11,"Are sub-standard mosquito nets threatening malaria fight in Zambia? - ...","Malaria",-13.953020,27.798250,"Zambia",,,3
+6645072,Google News,2019-08-28 01:12:36,"Not Only Mosquitoes Cause Dengue Or Malaria, These Dangerous Diseases ...","Dengue",0.529860,37.857880,"Kenya",,,3
+6645016,Google News,2019-08-28 02:40:29,"Kenya: Malaria Deaths Rise to Eight As Baringo Seeks Aid - ...","Malaria",0.529860,37.857880,"Kenya",,,4
+6644424,Google News,2019-08-27 15:12:06,"Uganda launches blood donation drive amid rising malaria cases - ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6643947,Google News,2019-08-22 14:49:00,"Malaria control success in Africa 'at risk from spread of multi-drug ...","Malaria",8.626220,39.616032,"Ethiopia",,,4
+6642810,Google News,2019-08-26 22:58:00,"NMA sets agenda for health ministers as lab scientists decry poor ...","Yellow Fever",9.593960,8.105310,"Nigeria",,,3
+6640408,Google News,2019-08-25 17:20:00,"Malaria outbreak confirmed, officials deny four have died - Standard ...","Malaria",0.529860,37.857880,"Kenya",,,4
+6640403,Google News,2019-08-25 01:04:07,"Possible to eradicate malaria, but probably not soon - ...","Malaria",7.959850,-1.207300,"Ghana",,,4
+6640403,Google News,2019-08-25 01:04:07,"Possible to eradicate malaria, but probably not soon - ...","Malaria",-13.215800,34.307232,"Malawi",,,4
+6640403,Google News,2019-08-25 01:04:07,"Possible to eradicate malaria, but probably not soon - ...","Malaria",0.529860,37.857880,"Kenya",,,4
+6640325,Google News Deutsch,2019-08-21 06:58:36,"WHO: Six million malaria cases in Burundi in 2019 - Ärzte Zeitung","Malaria",-3.356170,29.887150,"Burundi",,,3
+6639727,Google News,2019-08-25 00:00:31,"Current tactics cannot win war on malaria, experts say - Daily Nation","Malaria",1.279960,32.386219,"Uganda",,,4
+6638136,Google News,2019-08-23 17:02:09,"Burundi’s Malaria Epidemic Reaches 50% of the Population - Vax Before ...","Malaria",-3.356170,29.887150,"Burundi",,,4
+6637028,Google News,2019-08-23 04:47:00,"African health ministers outline plans to tackle malnutrition, ...","Malaria",-0.840230,15.224290,"Republic of Congo",,,4
+6636977,Google News,2019-08-23 04:09:13,"Malaria vaccine promises a better future for African children - ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6636736,Google News,2019-08-23 00:27:00,"Study sheds light on emergence and spread of drug-resistant malaria ...","Malaria",8.626220,39.616032,"Ethiopia",,,3
+6636736,Google News,2019-08-23 00:27:00,"Study sheds light on emergence and spread of drug-resistant malaria ...","Malaria",7.959850,-1.207300,"Ghana",,,3
+6635830,Google News,2019-08-22 14:08:26,"Study: Malaria-Free World Remains Distant Dream - VOA News","Malaria",-13.215800,34.307232,"Malawi",,,4
+6634758,ProMED Mail,2019-08-22 12:15:34,"PRO/EDR> Dengue/DHF update (17): Asia, Pacific, Europe, Africa","Dengue",-6.000000,35.000000,"Tanzania, Tanzania",,,3
+6635388,Google News,2019-08-22 07:00:00,"A Simple Invention Could Change How Fast Disease Is Detected - The ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6634951,Google News,2019-08-22 03:53:44,"Malaria: Opportunity Analysis and Forecasts to 2027 | Size, ...","Malaria",-2.000000,25.000000,"DR Congo",,,4
+6634951,Google News,2019-08-22 03:53:44,"Malaria: Opportunity Analysis and Forecasts to 2027 | Size, ...","Malaria",7.959850,-1.207300,"Ghana",,,4
+6634951,Google News,2019-08-22 03:53:44,"Malaria: Opportunity Analysis and Forecasts to 2027 | Size, ...","Malaria",0.529860,37.857880,"Kenya",,,4
+6634951,Google News,2019-08-22 03:53:44,"Malaria: Opportunity Analysis and Forecasts to 2027 | Size, ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6634803,Google News,2019-08-21 23:08:07,"Neglected no more, 20 tropical diseases move closer to elimination - ...","Filariasis",8.534960,0.975720,"Togo",,,3
+6633958,Google News,2019-08-21 14:55:29,"Race Results are in for the 2019 MCTC Project Malaria 5K Run + Walk - ...","Malaria",1.279960,32.386219,"Uganda",,,3
+6633844,Google News,2019-08-20 11:10:55,"West Nile MPs Threaten to Leave Uganda Should Mafia Kill Anite - ...","West Nile Virus",1.279960,32.386219,"Uganda",,,3
+6633313,Google News,2019-08-21 08:38:34,"Accra residents fight malaria - BusinessGhana","Malaria",7.959850,-1.207300,"Ghana",,,4
+6632803,Google News,2019-08-21 01:56:03,"A new project promises to tackle malaria in southern Tanzania - ...","Malaria",-6.000000,35.000000,"Tanzania",,,3
+6632628,Google News Deutsch,2019-08-20 21:16:00,"WHO speaks of malaria epidemic in Burundi - bluewin.ch","Malaria",-3.356170,29.887150,"Burundi",,,4
+6631275,Google News,2019-08-20 08:30:59,"Child malaria rate increases in Kalumbila – Zambia - diggers.news","Malaria",-13.953020,27.798250,"Zambia",,,3
+6629448,Google News,2019-08-19 10:00:00,"How having malaria inspired one ANU student to compete in the Three ...","Malaria",9.593960,8.105310,"Nigeria",,,3
+6626834,Google News,2019-08-16 23:32:00,"Malaria remains leading cause of death in Nigeria, says WHO - Guardian","Malaria",9.593960,8.105310,"Nigeria",,,3
+6625297,Google News,2019-08-16 05:45:18,"Malaria death toll in Burundi rises - ITIJ","Malaria",-3.356170,29.887150,"Burundi",,,3
+6624304,ProMED Français,2019-08-16 04:42:14,"PRO/FR> Paludisme - Ouganda: (Kampala)","Malaria",1.279960,32.386219,"Uganda",,,3
+6624310,Google News,2019-08-14 16:22:00,"Climate change, refugees blamed for surge in malaria in Uganda - Eye ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6623876,Google News,2019-08-13 05:44:20,"Govt clarifies yellow fever status in Ebonyi, number of deaths - ...","Yellow Fever",6.250000,8.083333,"Ebonyi State, Nigeria",,,3
+6623599,Google News,2019-08-15 04:49:26,"Cameroon: Managing Dangerous Pathogens - African Lab Technicians ...","Rift Valley Fever",5.685950,12.743590,"Cameroon",,,3
+6623599,Google News,2019-08-15 04:49:26,"Cameroon: Managing Dangerous Pathogens - African Lab Technicians ...","Tularemia",5.685950,12.743590,"Cameroon",,,3
+6622764,ProMED Mail,2019-08-14 18:13:16,"PRO/AH/EDR> Yellow fever - Africa (11): Nigeria (EB)","Yellow Fever",6.250000,8.083333,"Ebonyi State, Nigeria",,,3
+6621647,Google News,2019-08-14 04:19:53,"Malaria drug less effective in malnourished children - University of ...","Malaria",-28.998529,25.092541,"South Africa",,,3
+6621434,Google News,2019-08-14 00:16:21,"UNZA Don Wins Prestigious Malaria Research Award - Zambia Reports","Malaria",-13.953020,27.798250,"Zambia",,,3
+6617294,ProMED Anglophone Africa,2019-08-13 15:56:39,"PRO/EAFR> Malaria - Burundi: fatal","Malaria",-3.356170,29.887150,"Burundi",,,3
+6617189,ProMED Anglophone Africa,2019-08-13 15:51:08,"PRO/EAFR> Yellow fever - Nigeria (02): (Ebonyi) fatal","Yellow Fever",6.250000,8.083333,"Ebonyi State, Nigeria",,,3
+6620358,Google News,2019-08-13 11:35:00,"Burundian YouTube child star's death spotlights malaria epidemic - ...","Malaria",0.529860,37.857880,"Kenya",,,3
+6620358,Google News,2019-08-13 11:35:00,"Burundian YouTube child star's death spotlights malaria epidemic - ...","Malaria",-3.356170,29.887150,"Burundi",,,3
+6619000,ProMED Français,2019-08-13 11:01:07,"PRO/FR> Paludisme, épidémie non déclarée - Burundi (02): (Bujumbura)","Malaria",-3.356170,29.887150,"Burundi",,,3
+6619588,Google News,2019-08-13 02:08:57,"Yellow Fever Outbreak: No Reagent In Nigeria, Government Sends ...","Yellow Fever",9.593960,8.105310,"Nigeria",,,3
+6619588,Google News,2019-08-13 02:08:57,"Yellow Fever Outbreak: No Reagent In Nigeria, Government Sends ...","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6619495,Google News,2019-08-13 00:02:05,"Kenya defers mega pilot test for malaria vaccine - Daily Nation","Malaria",0.529860,37.857880,"Kenya",,,4
+6619254,Google News,2019-08-12 20:04:00,"Malaria kills 66 - The Herald","Malaria",-19.000099,29.871840,"Zimbabwe",,,4
+6619099,Google News,2019-08-12 18:14:00,"Fresh bid to reduce malaria cases in Gisagara - The New Times","Malaria",-1.997890,29.917650,"Rwanda",,,4
+6618928,Google News,2019-08-12 02:38:00,"DOH-XI steps up dengue info drive - Big News Network","Dengue",27.043949,18.023291,"Libya",,,4
+6618831,ProMED Français,2019-08-12 16:54:20,"PRO/FR> Paludisme, flambée - Burundi: (Bujumbura)","Malaria",-3.356170,29.887150,"Burundi",,,3
+6618706,ProMED Français,2019-08-12 16:48:45,"PRO/FR> Fièvre Jaune - Nigeria: Sud-Est","Yellow Fever",9.593960,8.105310,"Nigeria",,,3
+6618411,Google News,2019-08-12 10:54:10,"Ugandans Told to Utilise Mosquito Nets as Malaria Cases Hit 1 Million ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6618257,Google News,2019-08-12 10:27:24,"Okyenhene tasks journalists to speak truth to power - GhanaWeb","Malaria",7.959850,-1.207300,"Ghana",,,4
+6617664,Google News,2019-08-12 02:13:00,"YouTube comedian dies from malaria aged just six years old - Extra.ie","Malaria",-3.356170,29.887150,"Burundi",,,3
+6617156,Google News,2019-08-11 15:00:00,"Advantages of Vaccination | Preventing Infections With Immunisation - ...","Yellow Fever",-28.998529,25.092541,"South Africa",,,3
+6615857,Google News,2019-08-09 19:10:18,"About Malaria: The parasite - The Nation Newspaper","Malaria",9.593960,8.105310,"Nigeria",,,3
+6615119,Google News Français,2019-08-09 15:49:14,"Yellow fever kills 16 in southern Nigeria - China Internet ...","Yellow Fever",9.593960,8.105310,"Nigeria",,,4
+6614641,Google News,2019-08-09 12:23:01,"Yellow fever outbreak officially confirmed in Ebonyi as 16 reported ...","Yellow Fever",6.250000,8.083333,"Ebonyi State, Nigeria",,,4
+6614620,Google News,2019-08-09 06:42:23,"First Ever Investment Symposium Held in West Nile - softpower.ug","West Nile Virus",1.279960,32.386219,"Uganda",,,3
+6613937,Google News,2019-08-09 05:54:17,"Malaria outbreak in Burundi reaches epidemic levels with 5.7 million ...","Malaria",-3.356170,29.887150,"Burundi",,,4
+6611871,ProMED Mail,2019-08-08 14:44:34,"PRO/AH/EDR> Malaria - Burundi: national epidemic","Malaria",-3.356170,29.887150,"Burundi",,,3
+6612133,Google News,2019-08-08 06:33:31,"Yobe, WHO and Malaria Consortium target close to 200000 children for ...","Malaria",12.000000,11.500000,"Yobe State, Nigeria",,,4
+6611498,Google News,2019-08-07 19:08:56,"Ondo partners foreign firm to tackle malaria - The Punch","Malaria",7.088721,4.838763,"Ondo State, Nigeria",,,3
+6610647,Google News,2019-08-07 11:31:30,"Malaria outbreak feared in Kampala - Independent","Malaria",1.279960,32.386219,"Uganda",,,4
+6608619,Google News,2019-08-06 11:05:52,"Hepatitis: The silent killer overtaking HIV, malaria - Daily Monitor","Malaria",1.279960,32.386219,"Uganda",,,3
+6608005,Google News,2019-08-06 04:37:00,"1,800 dead as malaria 'epidemic' rages in Burundi: UN - Yahoo News","Malaria",-3.356170,29.887150,"Burundi",,,4
+6607943,Google News,2019-08-06 03:00:43,"Cases Of Malaria Spike In Manicaland Province - pindula.co.zw","Malaria",-19.000099,29.871840,"Zimbabwe",,,3
+6605537,ProMED Français,2019-08-05 05:16:32,"PRO/FR> Fièvre Jaune - Côte d'Ivoire (03): Abidjan","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6605536,ProMED Français,2019-08-05 05:11:04,"PRO/FR> Fièvre Jaune - Côte d'Ivoire (02): Abidjan","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6603696,Google News,2019-08-03 04:30:00,"The Eradication of Malaria in Argentina and Algeria - Borgen Project","Malaria",28.163240,2.632390,"Algeria",,,3
+6603595,Google News,2019-08-03 01:18:11,"Tanzania needs US $ 8 million from development to eradicating the NTD ...","Filariasis",-6.000000,35.000000,"Tanzania",,,3
+6603485,Google News,2019-08-02 23:23:24,"Malaria - The Nation Newspaper","Malaria",9.593960,8.105310,"Nigeria",,,4
+6600585,Google News,2019-08-01 12:51:00,"Freetown closes public spaces from dusk to dawn due to heightened ...","Eastern Equine Encephalitis",8.560280,-11.791920,"Sierra Leone",,,4
+6600585,Google News,2019-08-01 12:51:00,"Freetown closes public spaces from dusk to dawn due to heightened ...","West Nile Virus",8.560280,-11.791920,"Sierra Leone",,,3
+6600348,Google News,2019-08-01 10:26:26,"Did Alana Cutland suffer bad reaction to anti-malaria drugs in ...","Malaria",-19.373381,46.706039,"Madagascar",,,4
+6598509,ProMED Anglophone Africa,2019-08-01 00:12:00,"PRO/EAFR> Yellow fever - Cote d'Ivoire: (Abidjan) fatal","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6598509,ProMED Anglophone Africa,2019-08-01 00:12:00,"PRO/EAFR> Yellow fever - Cote d'Ivoire: (Abidjan) fatal","Yellow Fever",5.341110,-4.028060,"Abidjan, Lagunes Region, Ivory Coast",,,3

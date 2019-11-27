@@ -1,0 +1,54 @@
+HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
+Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
+6544759,Google News,2019-06-29 21:23:00,"Jigawa to immunize children against malaria - Daily Trust","Malaria",12.000000,9.750000,"Jigawa State, Nigeria",,,3
+6544447,ProMED Mail,2019-06-29 17:43:24,"PRO/ALL> New in IJID (07): July 2019","Tularemia",-0.840230,15.224290,"Republic of Congo",,,1
+6544447,ProMED Mail,2019-06-29 17:43:24,"PRO/ALL> New in IJID (07): July 2019","Tularemia",9.916670,8.900000,"Jos, Plateau, Nigeria",,,1
+6543559,ProMED Anglophone Africa,2019-06-29 15:24:14,"PRO/EAFR> Dengue - Tanzania (03): increase in cases, fatal","Dengue",-6.000000,35.000000,"Tanzania",,,3
+6542895,Google News,2019-06-28 11:01:55,"Zambia recorded 5m malaria cases last year – EMC - themastonline.com","Malaria",-13.953020,27.798250,"Zambia",,,3
+6541747,Google News,2019-06-27 15:39:00,"Rolling back malaria: Government launches Seasonal Malaria ...","Malaria",5.685950,12.743590,"Cameroon",,,4
+6539498,Google News,2019-06-26 00:05:26,"How malaria drugs thieves kill Ugandans - The Observer","Malaria",1.279960,32.386219,"Uganda",,,4
+6538570,Google News,2019-06-26 02:43:50,"Home-grown solution to tackle malaria - 26 June 2019 - Altron Arrow - ...","Malaria",-28.998529,25.092541,"South Africa",,,3
+6538135,Google News,2019-06-25 19:51:29,"Quick test checks for malaria drug resistance - Futurity: Research ...","Malaria",-13.953020,27.798250,"Zambia",,,3
+6536314,Google News,2019-06-24 19:13:09,"Mozambique: Cholera cases slow, malaria cases near 60K - Outbreak ...","Malaria",-17.260059,35.552200,"Mozambique",,,3
+6536092,Google News,2019-06-24 16:46:09,"Expert urges traditional rulers to support Malaria Elimination ...","Malaria",11.500000,8.500000,"Kano State, Nigeria",,,4
+6535121,Google News,2019-06-24 04:40:18,"Mobile Malaria Project returns from the field - Geographical","Malaria",-13.953020,27.798250,"Zambia",,,3
+6534414,Google News,2019-06-23 12:28:00,"How over 13m Nigerians battle with malaria annually - Vanguard","Malaria",9.593960,8.105310,"Nigeria",,,4
+6531829,Google News,2019-06-21 07:04:24,"Dengue fever kills 4 in Tanzania, as 4,000 diagnosed with disease - ...","Dengue",-6.000000,35.000000,"Tanzania",,,4
+6531365,Google News,2019-06-20 20:56:15,"Malaria Eradication: The Algeria, Argentina Example - Leadership ...","Malaria",28.163240,2.632390,"Algeria",,,3
+6530975,Google News,2019-06-20 04:29:06,"Mapping malaria's global impact - News - Nature Middle East - Nature ...","Malaria",6.883000,30.497999,"South Sudan",,,3
+6529733,Google News,2019-06-20 03:20:12,"Nigeria: Hope Rises for Malaria, Ebola 'Elimination' - AllAfrica.com","Malaria",9.593960,8.105310,"Nigeria",,,3
+6524252,ProMED Middle East,2019-06-19 19:29:47,"PRO/MENA> Yellow fever - Africa: Egypt ex Sudan, airport, ...","Yellow Fever",26.494249,29.871960,"Egypt",,,3
+6524252,ProMED Middle East,2019-06-19 19:29:47,"PRO/MENA> Yellow fever - Africa: Egypt ex Sudan, airport, ...","Yellow Fever",13.831530,30.049950,"Sudan",,,3
+6527961,Google News,2019-06-19 04:30:00,"The Response to Malaria in Guinea-Bissau - Borgen Project","Malaria",12.030310,-14.965220,"Guinea-Bissau",,,3
+6524164,Google News,2019-06-17 05:47:14,"Fake malaria pill kills pretty ESUT final year student 3 months to ...","Malaria",6.566389,7.377319,"Enugu State, Nigeria",,,4
+6523077,Google News,2019-06-15 15:00:00,"Why thousands of Africans go on a pilgrimage to Senegal to visit the ...","Yellow Fever",14.366970,-14.467650,"Senegal",,,4
+6522821,Google News,2019-06-15 21:59:39,"Gold Fields school complex wins malaria quiz competition - GhanaWeb","Malaria",7.959850,-1.207300,"Ghana",,,4
+6520614,Google News,2019-06-14 11:07:52,"Hepatitis, a bigger threat than AIDS, malaria, TB in Africa — WHO - ...","Malaria",-1.997890,29.917650,"Rwanda",,,3
+6520399,Google News,2019-06-13 19:30:32,"Cameroon begins distribution of 15 million mosquito nets to fight ...","Malaria",5.685950,12.743590,"Cameroon",,,3
+6520228,Google News,2019-06-14 07:42:14,"Promising results from malaria-prevention medication among children ...","Malaria",11.500000,13.000000,"Borno State, Nigeria",,,3
+6520083,Google News,2019-06-14 03:18:45,"Rift Valley Fever Testing Market to Reap Excessive Revenues by 2028 - ...","Rift Valley Fever",17.426149,9.397650,"Niger",,,4
+6520016,Google News,2019-06-14 04:00:53,"Mermithid nematodes to control malaria transmission - BugBitten - BMC ...","Malaria",9.647320,2.343130,"Benin",,,3
+6519802,Google News,2019-06-10 22:30:00,"17 malaria cases in 2019 - Trinidad & Tobago Express","Malaria",1.279960,32.386219,"Uganda",,,4
+6519767,Google News,2019-06-14 00:18:42,"Time-honoured tactics to the fore as I. Coast confronts dengue peril ...","Dengue",7.631530,-5.000000,"Cote d'Ivoire",,,4
+6519073,Google News Português,2019-06-13 04:40:00,"When Cubango prepared for cases of Dengue and Chicungunha | Kuando ...","Dengue",-12.295290,17.544680,"Angola",,,3
+6517670,Google News,2019-06-13 00:01:00,"Quick DNA test for malaria drug resistance is life-saver, holds ...","Malaria",-13.953020,27.798250,"Zambia",,,3
+6515157,Google News,2019-06-11 12:07:02,"Zika Virus Market Key Players, Cost Analysis, Price And Gross Margin ...","Zika virus",1.279960,32.386219,"Uganda",,,3
+6514583,Google News Português,2019-06-11 10:10:00,"Malaria in Cuanza-Norte with a tendency to increase | Provinces - ...","Malaria",-12.295290,17.544680,"Angola",,,3
+6513945,Google News,2019-06-09 13:00:00,"Better strategy to control malaria: Get rid of the mosquitoes - ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,4
+6512348,Google News,2019-06-10 09:02:31,"East Africa tightens travel to contain yellow fever spread - The East ...","Yellow Fever",1.279960,32.386219,"Uganda",,,4
+6512260,Google News,2019-06-10 07:36:00,"What Algeria and Argentina can teach the world about being ...","Malaria",28.163240,2.632390,"Algeria",,,3
+6511266,Google News,2019-06-09 04:29:27,"BP agrees to sell Egypt GUPCO stake to Dragon Oil - Oil and Gas ...","West Nile Virus",26.494249,29.871960,"Egypt",,,3
+6508072,Google News,2019-06-04 19:51:06,"Burkina Faso Travel Warning Issued - Vax Before Travel","Zika virus",12.277930,-1.740140,"Burkina Faso",,,3
+6507756,Google News,2019-06-06 18:58:06,"Knowledge, attitude and practice towards dengue fever prevention and ...","Dengue",8.626220,39.616032,"Ethiopia",,,3
+6507384,Google News Português,2019-06-06 14:35:37,"Angola worries about outbreaks of scabies, malaria and meningitis in ...","Malaria",-12.295290,17.544680,"Angola",,,3
+6505832,ProMED Français,2019-06-06 14:20:09,"PRO/FR> Dengue, cas confirmés et mortels - Côte d'Ivoire: (Abidjan)","Dengue",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6505401,Google News,2019-06-05 14:04:43,"A new way to block malaria transmission by targeting young contagious ...","Malaria",5.685950,12.743590,"Cameroon",,,4
+6505401,Google News,2019-06-05 14:04:43,"A new way to block malaria transmission by targeting young contagious ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,4
+6502828,Google News,2019-06-04 04:28:42,"Zika Virus Market Global and Regional Analysis by Top Players, ...","Zika virus",1.279960,32.386219,"Uganda",,,4
+6502300,Google News,2019-06-04 03:42:00,"Fungi take the fight against malaria to mosquitoes - Business Day","Malaria",-6.000000,35.000000,"Tanzania",,,4
+6502246,Google News,2019-06-04 02:15:44,"Take this today: Dengue fever is not contagious - The Citizen","Dengue",-6.000000,35.000000,"Tanzania",,,4
+6501203,Google News,2019-06-03 11:09:05,"BP plc: BP to divest mature oil assets in Egypt to Dragon Oil - The ...","West Nile Virus",26.494249,29.871960,"Egypt",,,4
+6500592,Google News Русский,2019-06-03 05:29:15,"Malaria and cholera spread Mozambique - SM News","Malaria",-17.260059,35.552200,"Mozambique",,,1
+6500478,Google News,2019-06-03 06:33:33,"Algeria now fourth African country to be declared malaria-free - The ...","Malaria",28.163240,2.632390,"Algeria",,,4
+6500235,Google News,2019-06-03 02:23:45,"Angola: Malaria and Meningitis Dominate Epidemiology in Angola - ...","Malaria",-12.295290,17.544680,"Angola",,,3
+6499799,Google News,2019-06-02 08:10:22,"New malaria weapon: Genetically engineered spider venom - WRAL Tech ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,4

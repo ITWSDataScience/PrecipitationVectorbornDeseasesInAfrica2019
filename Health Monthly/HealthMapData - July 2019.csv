@@ -1,0 +1,72 @@
+HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
+Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
+6597280,Google News,2019-07-30 23:40:45,"Mozambique: Malaria deaths in capital slashed by almost 70pct - Macau ...","Malaria",-17.260059,35.552200,"Mozambique",,,4
+6596818,ProMED Mail,2019-07-30 22:48:16,"PRO/AH/EDR> Yellow fever - Africa (10): Cote d'Ivoire","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6596643,Google News,2019-07-30 16:05:55,"Yellow fever outbreak in Ivory Coast kills one: health ministry - ...","Yellow Fever",7.631530,-5.000000,"Cote d'Ivoire",,,4
+6594542,ProMED Anglophone Africa,2019-07-30 16:36:27,"PRO/EAFR> Dengue - Tanzania (04): increase in cases","Dengue",-6.000000,35.000000,"Tanzania",,,3
+6596538,Google News,2019-07-30 15:01:04,"Malaria drugs failure rate high among malnourished children - ...","Malaria",0.529860,37.857880,"Kenya",,,4
+6596178,Google News,2019-07-30 11:01:13,"Making retail medicine outlets a catalyst for malaria case management ...","Malaria",7.959850,-1.207300,"Ghana",,,3
+6596175,Google News,2019-07-30 10:02:00,"Group targets malaria prevention in Nigeria, two other countries - ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6595438,Google News,2019-07-30 02:00:00,"Malaria Prevalence Rates Drop By 10% - New Vision","Malaria",1.279960,32.386219,"Uganda",,,4
+6595080,Google News,2019-07-29 14:44:52,"Mosquitoes test positive for West Nile Virus in Dane County - WMTV","West Nile Virus",1.279960,32.386219,"Uganda",,,4
+6594892,Google News,2019-07-29 19:02:18,"Malaria in Burundi: Nearly 6 million cases to date - Outbreak News ...","Malaria",-3.356170,29.887150,"Burundi",,,3
+6593966,Google News,2019-07-29 09:58:08,"UK Government strengthens Uganda's response to fight malaria - Uganda ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6593409,Google News,2019-07-29 04:24:00,"Epidemiologists hold 8th Annual Scientific Conference in Jos - ...","Yellow Fever",9.593960,8.105310,"Nigeria",,,4
+6592524,Google News,2019-07-28 11:12:23,"Malaria vaccine protects against severe malaria 7 years after ...","Malaria",-6.000000,35.000000,"Tanzania",,,3
+6592524,Google News,2019-07-28 11:12:23,"Malaria vaccine protects against severe malaria 7 years after ...","Malaria",0.529860,37.857880,"Kenya",,,3
+6592524,Google News,2019-07-28 11:12:23,"Malaria vaccine protects against severe malaria 7 years after ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,3
+6592442,Chinese RSS News,2019-07-28 04:21:15,"Dengue fever outbreak in Tanzania has caused 6677 people to infect 13 ...","Dengue",-6.000000,35.000000,"Tanzania",6677,13,3
+6592442,Chinese RSS News,2019-07-28 04:21:15,"Dengue fever outbreak in Tanzania has caused 6677 people to infect 13 ...","Dengue",-6.822921,39.269661,"Dar es Salaam, Tanzania",6631,11,3
+6591707,Google News,2019-07-27 20:49:00,"Dengue fever kills 13 in Tanzania - ANI News","Dengue",-6.000000,35.000000,"Tanzania",,,4
+6590672,ProMED Mail,2019-07-27 09:35:08,"PRO/EDR> Podoconiosis - Uganda: not filariasis","Filariasis",1.279960,32.386219,"Uganda",,,1
+6590685,Google News,2019-07-27 01:45:05,"USAID funded anti-malaria drive cuts prevalence among expectant ...","Malaria",-6.000000,35.000000,"Tanzania",,,3
+6589336,Google News,2019-07-26 08:02:00,"Malaria: Gold Coaster Anthony Waker ends up with malaria after ...","Malaria",7.959850,-1.207300,"Ghana",,,3
+6586875,Google News,2019-07-24 13:09:48,"More mosquitoes lead to rise in West Nile cases in Maricopa County - ...","West Nile Virus",1.279960,32.386219,"Uganda",,,3
+6586546,Google News,2019-07-24 23:19:53,"Apac changes tact in fight against malaria - Daily Monitor","Malaria",1.279960,32.386219,"Uganda",,,4
+6584077,Google News,2019-07-22 17:54:34,"Malaria: Expert Tasks Residents On Clean Environment - Leadership ...","Malaria",12.000000,9.750000,"Jigawa State, Nigeria",,,3
+6583902,Google News,2019-07-23 12:52:37,"Mass Administration Of Anti-Malaria Drug To Children Begins - Peace ...","Malaria",7.959850,-1.207300,"Ghana",,,1
+6582308,Google News,2019-07-21 12:33:00,"The latest travel warnings for holidays to Spain, Greece, Turkey and ...","West Nile Virus",34.110859,9.561340,"Tunisia",,,3
+6580513,Google News,2019-07-21 23:31:00,"Group wants strategic intervention to curb malaria - Guardian","Malaria",9.593960,8.105310,"Nigeria",,,3
+6572797,Google News,2019-07-17 05:27:35,"GHS to administer new anti-malaria drug to children - Ghana Business ...","Malaria",7.959850,-1.207300,"Ghana",,,1
+6571926,Google News,2019-07-16 16:56:22,"New Tool Finds Bed Net Use Spotty, Raising Malaria Risk - VOA News","Malaria",1.279960,32.386219,"Uganda",,,4
+6571663,Google News,2019-07-16 11:02:00,"A new statistical research study on Parasitic Diseases Therapeutic ...","Malaria",-13.953020,27.798250,"Zambia",,,4
+6571663,Google News,2019-07-16 11:02:00,"A new statistical research study on Parasitic Diseases Therapeutic ...","Malaria",-6.000000,35.000000,"Tanzania",,,4
+6571663,Google News,2019-07-16 11:02:00,"A new statistical research study on Parasitic Diseases Therapeutic ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6571663,Google News,2019-07-16 11:02:00,"A new statistical research study on Parasitic Diseases Therapeutic ...","Malaria",-13.215800,34.307232,"Malawi",,,4
+6570833,Google News,2019-07-16 06:43:21,"Ghana: NMIMR Organises Malaria Quiz Competition for Oyarifa Schools - ...","Malaria",7.959850,-1.207300,"Ghana",,,3
+6569744,Google News,2019-07-13 06:50:20,"Busia Health facilities run out of Malaria drugs - NTV Uganda","Malaria",1.279960,32.386219,"Uganda",,,4
+6569744,Google News,2019-07-13 06:50:20,"Busia Health facilities run out of Malaria drugs - NTV Uganda","Malaria",-2.000000,25.000000,"DR Congo",,,4
+6568846,Google News,2019-07-15 07:17:41,"Rift Valley Fever Testing Market Display Significant Growth by 2028 - ...","Rift Valley Fever",17.426149,9.397650,"Niger",,,4
+6566287,ProMED Mail,2019-07-13 17:09:11,"PRO/EDR> Dengue/DHF update (16): Asia, Pacific, Europe, Africa, ...","Dengue",8.000000,-5.500000,"Ivory Coast, Ivory Coast",,,3
+6566166,Google News,2019-07-13 02:30:00,"I Don't Fall Sick Any More, A Former NNPC Staff Reveals What He Used ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6565336,ProMED Middle East,2019-07-12 21:46:07,"PRO/MENA> Malaria - Sudan: (Central Darfur) increasing incidence / ...","Malaria",12.333330,23.416670,"Central Darfur, Sudan",,,3
+6563937,Google News,2019-07-11 10:59:36,"Mosquito surveillance uncovers new information about malaria ...","Malaria",-19.373381,46.706039,"Madagascar",,,4
+6563111,Google News Русский,2019-07-09 05:07:00,"Plague, tularemia, fever: dangerous infections, which are present in ...","Tularemia",-0.840230,15.224290,"Republic of Congo",,,3
+6562406,Google News,2019-07-11 04:31:00,"Making the Most of the Malaria Vaccine | by Ifeanyi M. Nsofor - ...","Malaria",7.959850,-1.207300,"Ghana",,,3
+6562406,Google News,2019-07-11 04:31:00,"Making the Most of the Malaria Vaccine | by Ifeanyi M. Nsofor - ...","Malaria",0.529860,37.857880,"Kenya",,,3
+6562406,Google News,2019-07-11 04:31:00,"Making the Most of the Malaria Vaccine | by Ifeanyi M. Nsofor - ...","Malaria",-13.215800,34.307232,"Malawi",,,3
+6562395,Google News,2019-07-10 16:59:01,"The mosquito has killed billions and changed our DNA—and it’s going ...","Zika virus",7.631530,-5.000000,"Cote d'Ivoire",,,4
+6561430,Google News,2019-07-10 14:24:13,"Malaria Vaccine Mosquirix Protects Over the Long-Term - Vax Before ...","Malaria",28.163240,2.632390,"Algeria",,,3
+6561217,Google News,2019-07-10 06:06:58,"Malaria Rapid Diagnostics Devices Market Current Trends and Future ...","Malaria",1.279960,32.386219,"Uganda",,,4
+6560062,ProMED Mail,2019-07-10 12:36:41,"PRO/AH/EDR> Zika virus (05): Americas, Africa, Middle East research, ...","Zika virus",0.529860,37.857880,"Kenya",,,1
+6559720,ProMED Anglophone Africa,2019-07-10 10:14:52,"PRO/EAFR> Dengue - Cote d'Ivoire: (Abidjan) fatal","Dengue",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6559720,ProMED Anglophone Africa,2019-07-10 10:14:52,"PRO/EAFR> Dengue - Cote d'Ivoire: (Abidjan) fatal","Dengue",5.341110,-4.028060,"Abidjan, Lagunes Region, Ivory Coast",,,3
+6559149,Google News,2019-07-09 07:06:20,"Recent diagnosis, a spider toxin can kill malaria mosquitoes - Brace ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,3
+6557952,Google News,2019-07-08 20:43:24,"Dengue outbreak in the Ivory Coast - Outbreak News Today","Dengue",7.631530,-5.000000,"Cote d'Ivoire",,,3
+6556782,Google News,2019-07-08 07:36:57,"Are herbal remedies important to Ghana’s malaria control efforts? - ...","Malaria",7.959850,-1.207300,"Ghana",,,4
+6556776,Google News,2019-07-08 07:00:00,"Emergency relief package to combat animal disease outbreak in ...","Rift Valley Fever",-17.260059,35.552200,"Mozambique",,,3
+6556609,Google News,2019-07-08 04:39:38,"Africa: Tz Majors in Africa in Eliminating Malaria By 2030 End - Nmcp ...","Malaria",-6.000000,35.000000,"Tanzania",,,3
+6555662,Google News,2019-07-06 01:20:00,"State has lot more mosquitoes, but none test for West Nile so far - ...","West Nile Virus",4.750000,6.833333,"Rivers State, Nigeria",,,3
+6553420,Google News,2019-07-05 08:33:03,"Opinion: Why the elimination of malaria matters more than ever - Devex","Malaria",10.438210,-10.941770,"Guinea",,,3
+6553002,Google News,2019-07-05 01:20:00,"Balaka DHO upbeat on Malaria Vaccine | Malawi 24 - Malawi news - ...","Malaria",-13.215800,34.307232,"Malawi",,,3
+6552986,Google News Português,2019-07-05 00:20:00,"Angola has already registered more than 1,600 deaths due to malaria ...","Malaria",-12.295290,17.544680,"Angola",,,3
+6552555,Google News,2019-07-04 10:03:45,"ACOMIN Holds Advocacy Focused Media Meeting On Malaria Elimination In ...","Malaria",10.333333,7.750000,"Kaduna State, Nigeria",,,3
+6552500,Google News,2019-07-04 15:30:00,"Burkina Faso is fighting malaria — with genetically modified ...","Malaria",12.277930,-1.740140,"Burkina Faso",,,3
+6552274,Google News,2019-07-04 11:59:19,"Dengue fever cases in Tanzania's business capital gone down: minister ...","Dengue",-6.000000,35.000000,"Tanzania",,,4
+6552171,Google News,2019-07-04 10:36:00,"Retired soldier withdraws case against State over prescription of ...","Malaria",15.361170,18.664480,"Chad",,,3
+6552170,Google News,2019-07-04 10:19:00,"71% Nigerians have no Malaria parasite antigen, wasting money on ...","Malaria",9.593960,8.105310,"Nigeria",,,4
+6551767,Google News Deutsch,2019-07-04 03:11:51,"WHO update: Worldwide autochthonous Zika infections - Ärzte Zeitung","Zika virus",8.626220,39.616032,"Ethiopia",,,3
+6551732,Google News,2019-07-03 10:48:20,"Lymphatic Filariasis widespread in Sunyani Municipal and Sunyani West ...","Filariasis",7.959850,-1.207300,"Ghana",,,3
+6551612,Google News,2019-07-04 04:08:45,"Malaria cases decline by 69 percent in Oshikoto - New Era Live","Malaria",-22.133249,17.218281,"Namibia",,,4
+6550157,Google News,2019-07-03 09:11:28,"Aswan cures 82 malaria-diagnosed travelers coming from Africa - ...","Malaria",26.494249,29.871960,"Egypt",,,3
+6546598,Google News,2019-07-01 11:55:46,"Uganda: West Nile Fund Gets Shs120m for Needy Students - AllAfrica.com","West Nile Virus",1.279960,32.386219,"Uganda",,,3
