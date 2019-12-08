@@ -38,7 +38,7 @@ fh.close()
 lon, lat = np.meshgrid(lons, lats)
 xi, yi = m(lon, lat)
 # Plot Data
-cs = m.pcolor(xi,yi,np.squeeze(tmax))
+cs = m.pcolormesh(xi,yi,np.squeeze(tmax))
 
 cbar = m.colorbar(cs, location='bottom', pad="10%")
 cbar.set_label(tmax_units)
@@ -49,5 +49,5 @@ m.scatter(sites_lon_x,sites_lat_y,latlon=True, s=50, c='red',marker='o', alpha=1
 
 plt.title('May 2019', fontsize=20)
 
-#plt.show()
-plt.savefig('May2019.pdf') 
+plt.show()
+#plt.savefig('May2019.pdf') 
