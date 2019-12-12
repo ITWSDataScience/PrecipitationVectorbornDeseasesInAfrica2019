@@ -25,6 +25,11 @@ The mosquito dataset can be downloaded from the Healthmap website and searching 
 The two datasets can be merged and used for visualization with the help of a python script(Map_Visualization.py) and corresponding maps can be plotted for every month.
 
 
+### Important Links:
+
+Rainfall Dataset: https://www.tamsat.org.uk/data/archive
+Mosquito Dataset: https://www.healthmap.org/en/
+Panoply: https://www.giss.nasa.gov/tools/panoply/
 
 
 
@@ -46,8 +51,7 @@ The two datasets can be merged and used for visualization with the help of a pyt
 
 
 
-
-
+----------------------------------------------------------------------------------------------------------------------------
 The Global Precipitation Measurement mission is an international network of satellites that provide the next-generation global observations of rain and snow
 The precipitation data can be found using the following links :
 GPM - Global Precipitation Measurement | NASA
