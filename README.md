@@ -5,7 +5,7 @@
 
 #### Introduction
 
-This project is on Analyzing and Visualizing the trends of Vector borne diseases in Africa and to demonstrate the relation between rainfall and diseases in Africa for the year 2019.
+This project is on Clustering and Visualizing the trends of Vector borne diseases in Africa and to demonstrate the relation between rainfall and diseases in Africa for the year 2019.
 
 
 ### Getting Started:
@@ -26,7 +26,7 @@ The two datasets can be merged and used for visualization with the help of a pyt
 
 ### Data Models and Analyzing:
 
-Two models namely hclust and KNN are used to predict the diseases based on the existing data available.
+Two models namely hclust and KNN are used to cluster the diseases based on the disease location and find any relation between community areas, rainfall and diseases.
 
 
 ### Important Links:
