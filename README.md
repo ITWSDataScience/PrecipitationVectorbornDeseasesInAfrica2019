@@ -1,10 +1,52 @@
 # PrecipitationVectorborneDiseasesFor2019
 
 ## Group 9
-## Team members: Ridhi, Jagrati, Hariharan
+## Team members: Hariharan Srineevasan, Jagrati Sharma, Ridhi Gulati
 
-### 26th October:
-#### Important links:
+#### Introduction
+
+This project is on Analyzing and Visualizing the trends of Vector borne diseases in Africa and to demonstrate the relation between rainfall and diseases in Africa for the year 2019.
+
+
+### Getting Started:
+
+#### Download TAMSAT Data:
+
+The rainfall data can be downloaded from TAMSAT website. There is the option to download either individual files or a single compressed zip file containing all products for a given time stamp and year. To download individual files or zipped files (one for each year), you can download the data by replacing the relevant date fields.
+The files adhere to the following naming convention: rfeYYYY_MM_[dd].v3.nc and are downloaded in NetCDF format. 
+To view NetCDF files, download Panoply software to load and save the data. Panoply is a useful, cross-platform application for visualisation and simple manipulation of NetCDF.
+
+#### Mosquito Dataset:
+
+The mosquito dataset can be downloaded from the Healthmap website and searching the disease and location area. The corresponding data can then be downloaded.
+
+### Visualization:
+
+The two datasets can be merged and used for visualization with the help of a python script(Map_Visualization.py) and corresponding maps can be plotted for every month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 The Global Precipitation Measurement mission is an international network of satellites that provide the next-generation global observations of rain and snow
 The precipitation data can be found using the following links :
