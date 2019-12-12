@@ -1,7 +1,10 @@
 # PrecipitationVectorborneDiseasesFor2019
 
 ## Group 9
-## Team members: Hariharan Srineevasan, Jagrati Sharma, Ridhi Gulati
+Team members:
+- Ridhi Gulati
+- Hariharan Sreenivas
+- Jagrati Sharma
 
 #### Introduction
 
