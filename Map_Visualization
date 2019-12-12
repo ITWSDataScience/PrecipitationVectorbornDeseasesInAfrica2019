@@ -10,6 +10,7 @@ from netCDF4 import Dataset
 df=pd.read_csv('C://Users//ridhi//Downloads//healthmapdata.csv',delimiter=',')
 fig = plt.figure(figsize=(12,9))
 
+#basemap parameters
 m = Basemap(projection='mill',
            llcrnrlat = -38.6,
            urcrnrlat = 39.6,
@@ -18,7 +19,6 @@ m = Basemap(projection='mill',
            resolution = 'c')
 
 m.drawcoastlines()
-
 m.drawparallels(np.arange(-90,90,10),labels=[True,False,False,False])
 m.drawmeridians(np.arange(-180,180,30),labels=[0,0,0,1])
 
@@ -31,7 +31,6 @@ fh = Dataset(my_example_nc_file, mode='r')
 lons = fh.variables['lon'][:]
 lats = fh.variables['lat'][:]
 tmax = fh.variables['rfe'][:]
-
 tmax_units = fh.variables['rfe'].units
 fh.close()
 
@@ -44,10 +43,8 @@ cbar = m.colorbar(cs, location='bottom', pad="10%")
 cbar.set_label(tmax_units)
 
 m.scatter(sites_lon_x,sites_lat_y,latlon=True, s=50, c='red',marker='o', alpha=1, edgecolor='k', linewidth=1, zorder=2)
-#m.scatter(check3.lon,check3.lat,latlon=True, s=50, c='red', marker='^', alpha=1, edgecolor='k', linewidth=1, zorder=2)
-#m.pcolor(check3.xi,check3.yi,np.squeeze(check3.tmax))
 
+#Display the map
 plt.title('May 2019', fontsize=20)
-
 plt.show()
-#plt.savefig('May2019.pdf') 
+
