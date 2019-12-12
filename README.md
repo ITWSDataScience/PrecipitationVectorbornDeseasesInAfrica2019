@@ -18,7 +18,7 @@ To view NetCDF files, download Panoply software to load and save the data. Panop
 
 #### Mosquito Dataset:
 
-The mosquito dataset can be downloaded from the Healthmap website and searching the disease and location area. The corresponding data can then be downloaded.
+The mosquito dataset can be downloaded from the Healthmap website and searching the disease and location area. The corresponding data can then be downloaded. The data is downloaded in .csv format.
 
 ### Visualization:
 
