@@ -24,6 +24,10 @@ The mosquito dataset can be downloaded from the Healthmap website and searching 
 
 The two datasets can be merged and used for visualization with the help of a python script(Map_Visualization.py) and corresponding maps can be plotted for every month.
 
+### Data Models and Analyzing:
+
+Two models namely hclust and KNN are used to predict the diseases based on the existing data available.
+
 
 ### Important Links:
 
