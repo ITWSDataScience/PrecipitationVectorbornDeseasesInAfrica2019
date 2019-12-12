@@ -4,7 +4,7 @@
 
 ### Introduction
 
-This project is on Clustering and Visualizing the trends of Vector borne diseases in Africa and to demonstrate the relation between rainfall and diseases in Africa for the year 2019.
+This project is on Clustering and Visualizing the trends of Vector borne diseases in Africa and to demonstrate the relation between rainfall and diseases in Africa for the second half of 2019.
 
 
 ### Getting Started:
