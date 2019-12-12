@@ -27,9 +27,9 @@ The two datasets can be merged and used for visualization with the help of a pyt
 
 ### Important Links:
 
-Rainfall Dataset: https://www.tamsat.org.uk/data/archive
-Mosquito Dataset: https://www.healthmap.org/en/
-Panoply: https://www.giss.nasa.gov/tools/panoply/
+- Rainfall Dataset: https://www.tamsat.org.uk/data/archive
+- Mosquito Dataset: https://www.healthmap.org/en/
+- Panoply: https://www.giss.nasa.gov/tools/panoply/
 
 
 
