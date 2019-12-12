@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from netCDF4 import Dataset
 
-#df = pd.read_excel(r'C://Users//ridhi//Downloads//HealthMapData - Africa 25th May - 25th Nov.xlsx','Sheet1')
+# load the data
 df=pd.read_csv('C://Users//ridhi//Downloads//healthmapdata.csv',delimiter=',')
 fig = plt.figure(figsize=(12,9))
 
@@ -36,9 +36,9 @@ fh.close()
 
 lon, lat = np.meshgrid(lons, lats)
 xi, yi = m(lon, lat)
+
 # Plot Data
 cs = m.pcolormesh(xi,yi,np.squeeze(tmax))
-
 cbar = m.colorbar(cs, location='bottom', pad="10%")
 cbar.set_label(tmax_units)
 
