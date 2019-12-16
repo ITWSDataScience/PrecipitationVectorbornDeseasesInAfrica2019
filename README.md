@@ -34,7 +34,8 @@ Two models namely hclust and KNN are used to cluster the diseases based on the d
 - Panoply: https://www.giss.nasa.gov/tools/panoply/
 
 
-Watch our video here:
+Watch our video here
+
 [![Precipitation and Mosquito-borne Diseases in Africa 2019](http://img.youtube.com/vi/rMu_vTcL__g/0.jpg)](http://www.youtube.com/watch?v=rMu_vTcL__g "Precipitation and Mosquito-borne Diseases in Africa 2019")
 
 
