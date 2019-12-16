@@ -6,7 +6,7 @@ import numpy as np
 import pandas as pd
 from netCDF4 import Dataset
 
-# load the data
+#load the Disease data
 df=pd.read_csv('C://Users//ridhi//Downloads//healthmapdata.csv',delimiter=',')
 fig = plt.figure(figsize=(12,9))
 
@@ -26,8 +26,10 @@ sites_lat_y = df['Lat'].tolist()
 sites_lon_x = df['Lng'].tolist()
 
 colors = ['green', 'darkblue', 'yellow', 'red', 'blue', 'orange']
-my_example_nc_file = 'C:/Users/ridhi/Downloads/Data_Analytics/DataSets/EPI/rfe2019_05.v3.nc'
-fh = Dataset(my_example_nc_file, mode='r')
+
+#Loading Rainfall data
+rainfall_data = 'C:/Users/ridhi/Downloads/Data_Analytics/DataSets/EPI/rfe2019_05.v3.nc'
+fh = Dataset(rainfall_data, mode='r')
 lons = fh.variables['lon'][:]
 lats = fh.variables['lat'][:]
 tmax = fh.variables['rfe'][:]
