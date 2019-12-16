@@ -1,4 +1,4 @@
-# PrecipitationVectorborneDiseasesFor2019
+# Precipitation and Mosquito-Borne Diseases in Africa 
 
 ## Group 9
 
@@ -33,10 +33,15 @@ Two models namely hclust and KNN are used to cluster the diseases based on the d
 - Mosquito Dataset: https://www.healthmap.org/en/
 - Panoply: https://www.giss.nasa.gov/tools/panoply/
 
+
+Watch our video here:
+[![Precipitation and Mosquito-borne Diseases in Africa 2019](http://img.youtube.com/vi/rMu_vTcL__g/0.jpg)](http://www.youtube.com/watch?v=rMu_vTcL__g "Precipitation and Mosquito-borne Diseases in Africa 2019")
+
+
 ### Contributors:
-- Ridhi Gulati
-- Hariharan Sreenivas
-- Jagrati Sharma
+- Hariharan Sreenivas (sreenh@rpi.edu)
+- Jagrati Sharma (sharmj@rpi.edu)
+- Ridhi Gulati (gulatr@rpi.edu)
 
 
 
