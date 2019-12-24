@@ -1,4 +1,3 @@
-HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
 Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
 6797840,ProMED Português,2019-11-25 22:06:19,"PRO/PORT> Dengue - Sudão, OMS/WHO","Dengue",13.831530,30.049950,"Sudan",,,3
 6796287,Google News,2019-11-23 00:03:45,"Sudan: OCHA Sudan Sitrep - Rift Valley Fever Outbreak in Sudan - ...","Rift Valley Fever",13.831530,30.049950,"Sudan",,,3

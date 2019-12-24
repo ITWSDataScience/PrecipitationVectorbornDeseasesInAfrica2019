@@ -1,4 +1,3 @@
-HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
 Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
 6544759,Google News,2019-06-29 21:23:00,"Jigawa to immunize children against malaria - Daily Trust","Malaria",12.000000,9.750000,"Jigawa State, Nigeria",,,3
 6544447,ProMED Mail,2019-06-29 17:43:24,"PRO/ALL> New in IJID (07): July 2019","Tularemia",-0.840230,15.224290,"Republic of Congo",,,1

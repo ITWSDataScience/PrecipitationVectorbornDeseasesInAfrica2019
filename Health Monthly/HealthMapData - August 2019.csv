@@ -1,4 +1,3 @@
-HealthMap data are freely available for research purposes only.  If you require a dataset for non-academic purposes or with a larger date range and/or more meta information please contact info@healthmap.org.
 Alert ID,Feed,Issue Date,"Article Title","Disease",Lat,Lng,"Location",Cases,Deaths,Rating
 6650325,Google News Русский,2019-08-23 04:11:43,"65 0 In southern Russia, dangerous mosquitoes from Egypt and Asia ...","Zika virus",26.494249,29.871960,"Egypt",,,1
 6649307,Google News,2019-08-30 01:24:30,"Billions secured to fight AIDS, malaria, TB - Caj News Africa","Malaria",8.626220,39.616032,"Ethiopia",,,3
